@@ -5,11 +5,6 @@ export default {
     // Target: https://go.nuxtjs.dev/config-target
     target: 'static',
 
-    // Router
-    router: {
-        base: '/homestayarw/'
-    },
-
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
         title: 'ARW Homestay - Homestay nyaman di bantul, yogyakarta',
