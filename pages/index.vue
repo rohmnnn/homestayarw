@@ -290,7 +290,6 @@
                             </div>
                             <div class="capitalize">
                                 <li>Parkir Luas</li>
-                                <li>Wifi</li>
                                 <li>AC</li>
                                 <li>3 Kamar Tidur</li>
                                 <li>Kamar Mandi Dalam</li>
